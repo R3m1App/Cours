@@ -4,7 +4,7 @@
 
 ## Contenu du répertoire
 
-Ce répertoire contient les exercices de différents cours que je suis.
+Ce répertoire contient les exemples/exercices de différents cours.
 
 ---
 ## UDEMY
